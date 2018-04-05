@@ -1,0 +1,23 @@
+.jumbotron {
+	background-color: coral;
+	height:40vh;
+	text-align: center;
+	padding-bottom: 40px;
+	margin:0,0,0,0;
+}
+.cont2 body{
+	background-color: silver;
+}
+#like {
+	background-color: silver;
+	padding-top: 30px;
+}
+.btn {
+	background-color: grey;
+	padding-left: 20px;
+}
+#bg {
+	background-color: orange;
+	height:90vh;
+	width: 25%;
+}
